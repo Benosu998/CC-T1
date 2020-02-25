@@ -1,0 +1,30 @@
+body {
+    background-color: #112233;
+    color:white;
+}
+
+.st{
+
+    background-color: darkblue;
+    width:40%;
+    height: 100%;
+    margin : 40px auto;
+    color:white;
+
+}
+img{
+    width: 100%;
+    height: 80%;
+}
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 100%;
+    height: 20%;
+}

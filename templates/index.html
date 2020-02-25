@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/index.css') }}">
+</head>
+<body>
+<div class="st">
+    <a href="/metrics" style="width:100%;text-align:center;">Metrics</a>
+    <button id="getPh" type="button">Get Exchange Rate Currency for Country from random IP</button>
+</div>
+
+<script src="{{ url_for('static',filename='js/index.js') }}"></script>
+</body>
+</html>
