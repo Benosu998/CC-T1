@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "buy-some-food",
+  "private_key_id": "dbdeb9679797a7a1e99a4c0e2fc9253daf13d14f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnPZSVPi63gFfm\n5IdmUjCtAlW2qBzXJcmnGFlfP4ymI7M7GZcAmv7Y/YP3D5YQg4tMNGRBPAwWtbvk\n060G2QYdOLwAzc4Pa95C/cZJ2599mw3uKscOqlQZ15bwFRuDbaAHDJcERRnPVCzt\nKOEQzXNHYhJPyNuzn7bAHdno3e9YnqJzyrgWvqvZ4p5sP9ao7LSPsI2I4hq6Lw9A\nvb1RFBWS1xMh+sbjysn2LPWRcIaudJQ55tpc3rSqUBT6irFhhLIW9nBlc1mBLsn1\nFIteHvMJJ+FPU/uMo388J0QgZsrHD3p2ZE5pQNxsqWzfSX79dSmkO52a7FsRiDsG\nLOfyKjVTAgMBAAECggEAA0wHfdm3+g4hrX+b27yLER4Wqn8t8l/gVdb5DBOopi3V\n/rhGbdCgbY6x51D7WF//gwUVZOPWKSx0A9LYemYU5MaVjj6AbXVm8FMocZRO1J8V\n6zgUrIlXFxtU8m64GCM1IG5zG7ZxB9FVAWfo5/fk6edZDRGcozHm3Gq6PQkDCvAt\nec5RdajAEBPTaDaL2yHOeRLuGpsJTHIp31a2w5Xv663cf9Ue4UzqB9nN9zcZ+wXU\njkbkvhxJN2z4cbEpUX7rOWuXQT2WJPB0ci0Z9ek1ZnoMjwQ/mGUht1+96rOsgmX5\nLh0RCjNESz/0tG4+lvWRP/9ssA7oGdS7payajGte4QKBgQDjcS7DsbsPbZasemyg\n5cyAe51bm2riwlNEJBZgtVo2Dc5+KYR1jvbuc3XGPj77yY2RIBENLE+IDf5oesOu\n27KkapNlojvI6+immruo30tXejOAdatCQfBY646EJetH/FUPzaCbs73yAFynaUIg\n6foOjhECwGCCRSms9kKSTIdOzQKBgQC8PUzX3dbizDg7pVnu5BWU/mXJAQ3Tahhc\npabx8sURIZv26d/8C/OxWlPA9KqRmzsbpjqm8oj3kMork0YEX7rtHF+87Q55GR48\nMZ6akThmhMKjNwW6v9snAdfmVIUtk4yH95OE4qCKBgJHXarUuRjJJEyMsJ7WRkKF\nqNTkG1lUnwKBgDYtUMFmxbNAHIMLSnLtKlB0oaAfnk9TkLgLjJUOveVgVo6w3w+N\ntX5JXIWTcDdT5HfsVoN3yZ4UD0Td8VzmkmAdzuyHv4v1vd5pv0fToMO+pSP1Y40N\n3e2gdrs9uRTVo4F3LsnH//f0ZB2wsgLbGSh8aMrp/lMpnGrJ4kOtHRIFAoGADFv+\nAqJnLIb6HjhyGjRRknHNnw/5p2rs5JBf0Lz+4WwSgHjEoxjpzDhBDYdC98J4dA1L\nBpEgGxkfnRLTYxAiBtV5F7981simao9beYyVZm3LFcpUDvnv2rTNRys/f0mTzY2c\n2vnCTq2sUqE8yTDKBtLiT85871a3oWz/ZWbCS8MCgYEAkAApPHZx+93cNGqRA53H\nBwsK9VZ95Oct3niQqeQra6smOx9jfNPeDgWOk2fErvKD6aguusEqwJTrOAFklv34\np5fcPSL98MDit5mrsVFzUZ386lmu/mCE7vWvtbt2V2ffyk0l9TM2XEvU7WrW973R\nCS7jRVxLAL3HizdpJ9cwjfI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "buy-some-food@appspot.gserviceaccount.com",
+  "client_id": "102434574882288752820",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/buy-some-food%40appspot.gserviceaccount.com"
+}

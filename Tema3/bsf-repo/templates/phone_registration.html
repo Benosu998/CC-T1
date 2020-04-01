@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/index.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/form.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/navbar.css') }}">
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,300italic' rel='stylesheet' type='text/css'>
+    <title>Registration</title>
+</head>
+<body>
+<ul><li><a href="/">Home</a></li></ul>
+<div class="main_div">
+    <form id="myForm" action="/phone" onsubmit="return validateForm()">
+        Phone number: <input type="text" name="phone_number" placeholder="Enter your phone number..."/>
+
+        <input type="submit" value="Submit form">
+    </form>
+</div>
+</body>
+<script src="{{ url_for('static',filename='js/login.js') }}"></script>
+</html>
